@@ -12,4 +12,3 @@ Large language models (LLMs) have undoubtedly changed the way we interact with i
 In this Project, we're going to build a RAG-based LLM application where we will incorporate external data sources to augment our LLM’s capabilities. 
 =======
 In this Project, we're going to build a RAG-based LLM application where we will incorporate external data sources to augment our LLM’s capabilities. 
->>>>>>> origin/main
