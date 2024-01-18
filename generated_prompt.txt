@@ -1,0 +1,9 @@
+Objective: Summarize the Adventures of Tom Sawyer
+
+Scenarios:
+1. Describe Tom's first encounter with Huckleberry Finn
+   - Expected Output: Tom helps Huck escape from his abusive father.
+2. Explain the relationship between Tom and Becky
+   - Expected Output: They become romantically involved and share adventures.
+3. Detail the events at the graveyard
+   - Expected Output: Tom and Huck witness Injun Joe murder Dr. Robinson.
